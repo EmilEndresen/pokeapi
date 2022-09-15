@@ -83,8 +83,20 @@ body {
     margin: 0;
 }
 
+.pork-screen {
+    width: 800px;
+    min-height: 400px;
+    background-color: rgb(28, 27, 27);
+    margin-bottom: 5em;
+    border: 1.2rem solid white;
+    border-radius: 5px 5px 5px 45px;
+    padding: 1.5rem;
+}
+
 h1 {
     letter-spacing: .14rem;
+    margin-bottom: 1em;
+    font-size: 4rem;
 }
 
 
@@ -95,6 +107,10 @@ h1 {
     justify-content: center;
     max-width: 1080px;
     gap: .5rem;
+}
+
+#pork-id {
+    margin-bottom: 3rem;
 }
 
 .porkemon {
