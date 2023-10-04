@@ -74,7 +74,7 @@ select {
 }
 
 body {
-    background-color: firebrick;
+    background-color: rgb(124, 17, 17);
     display: flex;
     flex-direction: column;
     align-items: center;
